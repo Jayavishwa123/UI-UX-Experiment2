@@ -26,7 +26,8 @@ Interaction behaviors across both mobile and web layouts are designed with user-
 
 4) Creating a Brand Logo Using Canva
 
-![Screenshot 2025-06-01 202558](https://github.com/user-attachments/assets/a462ec4c-b25c-4955-a42c-c1d15dcb8973)
+<img width="450" height="432" alt="image" src="https://github.com/user-attachments/assets/2124923b-045a-444d-be41-b9a5a49f194e" />
+
 
 ## Result:
 
